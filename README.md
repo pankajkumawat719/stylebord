@@ -2,6 +2,16 @@
 
 "Stylebord" is a cutting-edge e-commerce platform that embodies the perfect synergy of Java, Spring Boot, React.js, and Tailwind CSS, along with MySQL database integration. This powerful combination ensures a seamless, high-performance, and visually stunning online shopping experience for fashion enthusiasts worldwide.
 
+# Technologies Used
+
+- Java
+- Spring Boot
+- React.js
+- Tailwind CSS
+- MySQL
+- HTML
+- CSS
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
